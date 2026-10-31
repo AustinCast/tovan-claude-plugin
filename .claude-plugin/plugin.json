@@ -1,0 +1,13 @@
+{
+  "name": "tovan",
+  "version": "0.1.0",
+  "description": "Design and order custom electronics from a plain-words brief. Tovan designs the circuit board, a case and the code, and has it made. Adds the Tovan connector and a skill for writing a good brief.",
+  "author": {
+    "name": "Tovan",
+    "email": "austin@tovan.ai",
+    "url": "https://www.tovan.ai"
+  },
+  "homepage": "https://www.tovan.ai/for-agents",
+  "license": "Proprietary",
+  "keywords": ["hardware", "electronics", "pcb", "circuit-board", "firmware", "mcp"]
+}
