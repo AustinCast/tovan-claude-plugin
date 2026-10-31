@@ -1,0 +1,14 @@
+{
+  "name": "tovan",
+  "owner": {
+    "name": "Tovan",
+    "email": "austin@tovan.ai"
+  },
+  "plugins": [
+    {
+      "name": "tovan",
+      "source": "./",
+      "description": "Design and order custom electronics from a plain-words brief."
+    }
+  ]
+}
