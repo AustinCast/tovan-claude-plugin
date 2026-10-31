@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tovan": {
+      "type": "http",
+      "url": "https://www.tovan.ai/api/mcp"
+    }
+  }
+}
